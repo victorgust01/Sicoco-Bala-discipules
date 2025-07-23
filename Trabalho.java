@@ -7,5 +7,9 @@ public class Trabalho {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Hohohohoho, bem-vindo, sir. ");
+
+        <h1> tun tun tun sahur </h1>
+        <h2> tralalelo tralala </h2>
+        <h3> tripitropa tropatripa </h3>
     }
 }
