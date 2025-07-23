@@ -23,8 +23,13 @@ public class Trabalho {
         // Mostra saudação final
         System.out.println("Olá, " + nome + "! Você tem " + idade + " anos.");
 
-        // Informativo adicional (da outra branch)
+        // Informativo adicional
         System.out.println("Filmes clássicos: Tubarão, Indiana Jones e os Caçadores da Arca Perdida, De Volta para o Futuro, Jurassic Park, O Exorcista.");
+
+        // Final divertido com elementos da outra branch
+        System.out.println("tun tun tun sahur");
+        System.out.println("tralalelo tralala");
+        System.out.println("tripitropa tropatripa");
 
         scanner.close();
     }
